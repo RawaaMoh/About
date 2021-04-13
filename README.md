@@ -13,4 +13,4 @@ Will share more projects and details in the near future :dancer:.
 
 Also looking for neuroimaging or neuroscience related work/internship worldwide :earth_asia:.
 
-check [a0m0rajab](https://github.com/a0m0rajab for more great projects.
+check [a0m0rajab](https://github.com/a0m0rajab) for more great projects.
