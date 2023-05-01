@@ -1,9 +1,9 @@
 # Hello World :octocat:
 
 ## Working on:
-* A website that contains all medical related datasets :page_with_curl:.
-* Working on neuroimaging project, will share the details later :computer:.
-* Publishing a thesis template for university students, so you don't need to worry about the format anymore :wink:.
+* A website that contains all medical related datasets :page_with_curl: (on hold).
+* Working on neuroimaging project, will share the details later :computer: (on hold).
+* Publishing a thesis template for university students, so you don't need to worry about the format anymore :wink: (on hold).
 
 ## Future Work:
 * An awesome personal website :memo:.
